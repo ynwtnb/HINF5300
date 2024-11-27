@@ -1,1 +1,10 @@
 .DS_Store
+
+assignment/activity_recognition/__pycache__/
+
+*.zip
+*.pdf
+
+assignment/final_project/
+assignment/step_count/a1_step_count_graded.ipynb
+assignment/stress_detection/data/WESAD
